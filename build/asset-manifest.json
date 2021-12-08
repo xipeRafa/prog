@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/nexGymT/static/js/main.f21d8f1f.chunk.js",
-    "main.js.map": "/nexGymT/static/js/main.f21d8f1f.chunk.js.map",
-    "runtime-main.js": "/nexGymT/static/js/runtime-main.79ddd724.js",
-    "runtime-main.js.map": "/nexGymT/static/js/runtime-main.79ddd724.js.map",
-    "static/css/2.54370922.chunk.css": "/nexGymT/static/css/2.54370922.chunk.css",
-    "static/js/2.2c496975.chunk.js": "/nexGymT/static/js/2.2c496975.chunk.js",
-    "static/js/2.2c496975.chunk.js.map": "/nexGymT/static/js/2.2c496975.chunk.js.map",
-    "index.html": "/nexGymT/index.html",
-    "static/css/2.54370922.chunk.css.map": "/nexGymT/static/css/2.54370922.chunk.css.map",
-    "static/js/2.2c496975.chunk.js.LICENSE.txt": "/nexGymT/static/js/2.2c496975.chunk.js.LICENSE.txt"
+    "main.js": "/prog/static/js/main.ff3336dc.chunk.js",
+    "main.js.map": "/prog/static/js/main.ff3336dc.chunk.js.map",
+    "runtime-main.js": "/prog/static/js/runtime-main.85ab32ca.js",
+    "runtime-main.js.map": "/prog/static/js/runtime-main.85ab32ca.js.map",
+    "static/css/2.54370922.chunk.css": "/prog/static/css/2.54370922.chunk.css",
+    "static/js/2.36c47e3a.chunk.js": "/prog/static/js/2.36c47e3a.chunk.js",
+    "static/js/2.36c47e3a.chunk.js.map": "/prog/static/js/2.36c47e3a.chunk.js.map",
+    "index.html": "/prog/index.html",
+    "static/css/2.54370922.chunk.css.map": "/prog/static/css/2.54370922.chunk.css.map",
+    "static/js/2.36c47e3a.chunk.js.LICENSE.txt": "/prog/static/js/2.36c47e3a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.79ddd724.js",
+    "static/js/runtime-main.85ab32ca.js",
     "static/css/2.54370922.chunk.css",
-    "static/js/2.2c496975.chunk.js",
-    "static/js/main.f21d8f1f.chunk.js"
+    "static/js/2.36c47e3a.chunk.js",
+    "static/js/main.ff3336dc.chunk.js"
   ]
 }
